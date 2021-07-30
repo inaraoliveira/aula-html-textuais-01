@@ -1,0 +1,13 @@
+{
+  "name": "atividade05",
+  "version": "1.0.0",
+  "description": "quinta atividade",
+  "main": "lista.html",
+  "scripts": {
+  },
+  "keywords": [
+    "listas"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
