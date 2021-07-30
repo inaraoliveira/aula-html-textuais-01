@@ -1,0 +1,13 @@
+{
+  "name": "atividade04",
+  "version": "1.0.0",
+  "description": "Quarta atividade",
+  "main": "biografia.html",
+  "scripts": {
+  },
+  "keywords": [
+    "biografia"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
