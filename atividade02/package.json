@@ -1,0 +1,13 @@
+{
+  "name": "atividade02",
+  "version": "1.0.0",
+  "description": "Segunda atividade",
+  "main": "filmes.html",
+  "scripts": {
+  },
+  "keywords": [
+    "filme"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
