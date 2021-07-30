@@ -1,0 +1,13 @@
+{
+  "name": "atividade01",
+  "version": "1.0.0",
+  "description": "primeira atividade",
+  "main": "musica-ninar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "atividade"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
